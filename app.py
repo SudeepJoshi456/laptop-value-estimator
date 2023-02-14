@@ -37,7 +37,7 @@ clock_speed = slt.number_input('CLOCK SPEED (in GHz)  ---normally ranges from 0.
 opsys = slt.selectbox("Operating System", df['OS'].unique())
 
 
-weight = slt.number_input('Weight (in kg) ---normally ranges from 0.5 to 4.5 kg---')
+weight = slt.number_input('Weight (in kg) ---normally ranges from 1.0 to 10.0 lbs ---')
 
 touchscreen = slt.selectbox("Touchscreen", ['Yes','No'])
 
