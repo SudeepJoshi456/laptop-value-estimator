@@ -1,4 +1,4 @@
-# LAPTOP VALUE ESTIMATOR
+# LAPTOP VALUE ESTIMATOR!!
 
 ## This project was built after I completed a course on Coursera. I applied whatever I learned during the course into this project. This was like a stepping stone towards future projects.
 
